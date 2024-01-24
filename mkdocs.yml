@@ -156,7 +156,9 @@ nav:
   - Home: 
     - Introductions: 'index.md'
   - Writing:
-    - "writing/index.md"
+    - Overview: "writing/index.md"
+    - TILs: 'https://tshrjn.notion.site/09e13a8a576e4493a8ab7fb065a27ad9?v=c979dc94d19844859dcd33cae97a48ab&pvs=4'
+    - ML-Nuggets: "https://tshrjn.notion.site/bda061498f6546668ad706285d03bb0b?v=0bef20607646441daae44c48f95cf642&pvs=4"
   - Contact: 'contact.md'
   
 plugins:
